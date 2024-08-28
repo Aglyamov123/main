@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Jackson",
+  "age": 40,
+  "address": {
+    "street": "Miko Way",
+    "city": "Fecobu",
+    "state": "IA",
+    "zip": "56324"
+  },
+  "contact": {
+    "phone": "(638) 461-9979",
+    "servicePhone": "800621684"
+  },
+  "birthday": "1985-12-17T02:53:31.659Z",
+  "ip": "130.225.161.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Zikerpad bo ro lumde hil mamuc aftajles zame hudejad hobmi izhawov fat izwoh. Be zarzusce po luguf zoc arki roafuwa mavso wokki so zejopog ifaunu agrowzo rutni pupjeklak huj eb. Fec miko hi be deadomo jonofuno divsuk itwugra si war arparliw hidgefupu rufgorcar zid luvotu eso ziutwod vu. Ru avile suzdad mi oso ud mez geb uwo bimmiz gumu odudelih lesam eguvebum li voucinut sajuk. Ziwric vim vibi ucilaro elala vuffadet ce hipo hublik kezi paj okabuede od budsemvo dus. Tiorlu jisal aletus wat once paj pavibu pug benu nar kaolbof ulofidhec vuroset kabir zevob jomihiz soc.",
+    "bio": "Majifge lazlula bevluh kuvpirvi hizheegu digzima alesaiz bicra muliko net ultuzu kowkeb of za ce tapo. Jupew zujat zirna ciroktuf jul kiwevi moponari atehekdi ke teco vujjup dubit kozuj no akmatgih tiiti. Zunic hovvo serdedat hu warok devwiel ame abucu idacacac je kuhigu fefcuic zoomebal de."
+  },
+  "apiKey": "49172b105df2979113fa03fc6818bdef5f5412e3ecd7c23e6c3674df9b3ec404",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
