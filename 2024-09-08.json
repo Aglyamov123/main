@@ -1,0 +1,26 @@
+{
+  "name": "Edna Hamilton",
+  "age": 48,
+  "address": {
+    "street": "Zemi Point",
+    "city": "Gamute",
+    "state": "MN",
+    "zip": "57453"
+  },
+  "contact": {
+    "phone": "(729) 622-3150",
+    "servicePhone": "800951597"
+  },
+  "birthday": "1986-10-29T12:23:48.498Z",
+  "ip": "226.59.117.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Uko ka curiva hedazfo ev ma solu hilihe uzumur gabina ehwire muw. Ek ba woelhu il vu bikuki pab peej wib no lagoz zu epeeji bu. Kir nofzifuz rusris mi gefpurop isi uleto ki cuv dihot bibuj un gu torawo ve puwdatno om ziksi.",
+    "bio": "Poczectac umoopvi ita imzo tadit iwajo mikatop caw lebcojon wosutbit atkakip ududiane aviubsij sepda nonkazi suwlul. Gigwoso jik wi zug tipa dip zoreri tiaj tubgaha toubonan ifazevu ziirpu dueneku. Lusporaz do ti hunofdah ethel wat bahubdeh nuura wederuhig te lopupni jibug pi nukka aghu ohpino toduv erakahah. Ru fa lecaduk lehbad usjocciv otobimum te ihvoal pikcugu ujoza fagleri osezusca segko ewnoged pef dazag bab ibazuso. Tilokaak jomwem jejdurivo no zebgiuci vuhlojla eteikona du huj ijidu zolju tanufjum ibeve dero ermus. Ja vurukam iku parpa winvi ej oh ecigab zuvup du ho tavoteifo uma ovi wanucgoz."
+  },
+  "apiKey": "d13c02c8e5bdb1012193be2cdbc6c3d809ef0035fb141a89d2605a04691a94ba",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
