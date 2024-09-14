@@ -1,0 +1,26 @@
+{
+  "name": "Janie Carr",
+  "age": 31,
+  "address": {
+    "street": "Ozmej Square",
+    "city": "Mukude",
+    "state": "PA",
+    "zip": "89993"
+  },
+  "contact": {
+    "phone": "(478) 816-5034",
+    "servicePhone": "800568654"
+  },
+  "birthday": "1976-07-26T01:56:00.899Z",
+  "ip": "32.109.125.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Tagin judvaclo hopsowoc cowih mekes ralnafwoh bufino ke befpethan vonkoju pafaw hemvah murrasub wutja law ug ceje zuhuluwug. Hubjoho eramirle no odi siwu weji vug uwiwoni ruzecte ruhtaf azpevid dagiswat ebi tolerva. Focehin coz tujalaake pe zuf enfas kuerte lum hu fassa zooriuna wufvilu metfapku piktoluz zadis esuze vuabi.",
+    "bio": "Lac ceeluhug debunun rujiw wo sok wu cohuud geniz sis kugilvez on we kur. Tupvozez nok zav uv vod vac hes fupwiwuc ebdabin hohadono ottozkaw luceta adpuflu noj loz hu afibe vokip. Vikohaw vuiwudaf sevkebij debowe wamawok tul vifeluloj worigti jalecami osrib cez ev dojwukok udodijup govgi piptejpe osivug risusir."
+  },
+  "apiKey": "1fb3fb6c7c896048e7cc0c04e10431db2c93595d5fe19d033ae48bf66073e197",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
