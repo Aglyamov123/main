@@ -1,0 +1,26 @@
+{
+  "name": "Erik Page",
+  "age": 23,
+  "address": {
+    "street": "Muvgit Square",
+    "city": "Banazere",
+    "state": "SC",
+    "zip": "25455"
+  },
+  "contact": {
+    "phone": "(623) 563-2906",
+    "servicePhone": "800676892"
+  },
+  "birthday": "1962-03-12T02:06:28.846Z",
+  "ip": "231.119.172.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Eke bufju ok johfoski mijuf puuvu apedetces kelci oti zikaow li nutzika rimdod ejjuj numiz. Cu wunop lometi rorkam sebze mok siviv cul ambop litko gingi gampi kimfa aspi hij vizjutis. Ci me avnosne zatlanan kupgiwed teivaleg gigigo dobali zispur zaksadu keblob konkawho. Iza setva jirif tu tifaw vefri uto ifinec mosa vusu umauhzo fef ra uroejopi ta hijjuj.",
+    "bio": "Sensif agoaze ku uc naccupok dusi gehsucop kucwen egico igiite wukos mehovaf moaj. Ruwupihu un zu olkeh tihfi waladdic minicaji erfezi geh do bop ke pevan ibavisi vizussaf guttaga. Ahe nelodbig locobiz pugujwag okiac jesi nijbuddi icbu ugides ki wuwwuj duhnali gobek suz ubidu wag. Filug anba za ocfelar jibabe betpo vefe hun pejerab ugjodap vicerpob ugeawje wi ubzit cavliup. Vob itamosah ridcetjez zausiuv ecatudliz ocvuz lot rucogna uzhim hehujaobe lilevume gewuncar nutegmuh bilcep ka lesazut fovunit amiponco. Vojca venkewo unifiuso hiru sovli tuowra pikgiih zuluckak eloti if miepo icaowe pas."
+  },
+  "apiKey": "b49e968b89a8318d6e90aa0b144fff07770357e5e9f629a6b4b2acb3a76a14bb",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
