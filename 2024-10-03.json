@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Perez",
+  "age": 55,
+  "address": {
+    "street": "Piitu Boulevard",
+    "city": "Zilgevsup",
+    "state": "PA",
+    "zip": "88126"
+  },
+  "contact": {
+    "phone": "(238) 224-1941",
+    "servicePhone": "800263536"
+  },
+  "birthday": "1972-09-08T10:13:12.494Z",
+  "ip": "72.65.75.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Lodkoz pejatve juwiman vihbod ni wahoj anisolsu tezsus kij he web ragocna otuin habecike. Jeaci wuzkukse zi se vaci reig var nejgat uz nafu jas ripek wepcanvuj hugim ca fewec bev rofohtak. Cuwwuno ahvo bo lo do etoz edumajsad nadna nopa gut hes fatohsun dujaici gis jad. Vih du ceaj wuw vij ugamesbo tim feogesuc jazap azagogbam ifeuz cubella kejmitcir amkibu.",
+    "bio": "Ecvezvur ruroftoh mabicotas sezhopuj nongezi vizidi rejulni zasvawuk uco jijjih cem civhiuh vefucusi ku uk vinovug. Wi tubga wahugivuv fi buhucu apma vivkafag gaol rima jafuet bemnata bibejbiz uco demenure. Fopka bidaav zut subze lifego hefufe vodza apihezu dek dovimjih higoh kujki ra ufu. Amega varsadih mahuciwi zaj madi pulgar zisja ulni ukunoc pulira pih pisav ki. Nogzeawu irukutac sowumosag omnih he veetu ujoni gefi giliicu me wirohi vute jevfu obe vel gub evitesod."
+  },
+  "apiKey": "70f34825e3d624828a488c10fd925f469922cdc08cde7bf73e6d204b03886a71",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
