@@ -1,0 +1,26 @@
+{
+  "name": "Grace Jimenez",
+  "age": 19,
+  "address": {
+    "street": "Vaget Plaza",
+    "city": "Zavlezi",
+    "state": "IA",
+    "zip": "86567"
+  },
+  "contact": {
+    "phone": "(609) 863-7864",
+    "servicePhone": "800366597"
+  },
+  "birthday": "1963-08-16T09:11:11.148Z",
+  "ip": "150.227.14.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Leveb namcavnip voconof vokmicuk tobogjof le tev fa neisne oveozinu so geccuoho bo gohiw sehog hopulil juhrawuc wuc. Izi wagoma upihgiv ru dag val bopseru la lekev jeapowe saojemu avuewbuk rebwululu pat wi netewloz pah. Na ze keve lagueg kaugicos ejruvlof fanurmi jo li nocsuve ritijso encanpen donecuj.",
+    "bio": "Dacehen wappov rib ki zadus napij mapif ze iwfuv makih datuba cez. Veme fon bubob numo mitolvij zadene wacravfum ha fubdi sowowdic zuoc un jina ronepnu. Ju mi les wafeomo kidwo tobafco bufosbu aje eli sac umefawto va uviojfat cu aruw isjopdog fagathe."
+  },
+  "apiKey": "c185b04f7ed24a3bb42f3065de6e575b27f43ecd1b6eaad0e9eb922e66c3bb3c",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
