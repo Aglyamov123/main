@@ -1,0 +1,26 @@
+{
+  "name": "Luis Fox",
+  "age": 60,
+  "address": {
+    "street": "Izetod Terrace",
+    "city": "Lukkika",
+    "state": "VT",
+    "zip": "88643"
+  },
+  "contact": {
+    "phone": "(660) 533-2177",
+    "servicePhone": "800493815"
+  },
+  "birthday": "1983-05-12T05:21:02.674Z",
+  "ip": "105.244.51.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Jion bomfomca jupru am ehab elhogi wohmiwfo pa ofa caageun mo udiuj lif ki ipu. Pam muner le imgat zak cozaw eg ozkijo lu pokemal apurotum if. Loghe hadup gofu rec sedewda kowko akoono ter mejpu ude zibrap nuzane ga guplosaj ifuovina madaffak egenehrun.",
+    "bio": "Kellinso dempeson fum inozefgi hot ekoaku sep bitdajma idoug bukij acgus keno natwi. No gannuh vasku zed azmi zal wusog ervopif ki rep re ruhlugpak. Sug pe zupasva weocfe et mikpa ji zum lagkuuwi sos icseb su re fiwduz eguumsok godo."
+  },
+  "apiKey": "efa029e6fea8b8527e42a3869ade3b4299e5c0c9ed21032db97fb42bc38e8ebe",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
