@@ -1,0 +1,26 @@
+{
+  "name": "Jay Hunt",
+  "age": 37,
+  "address": {
+    "street": "Zabu Park",
+    "city": "Nidhakuz",
+    "state": "VT",
+    "zip": "65412"
+  },
+  "contact": {
+    "phone": "(413) 282-2733",
+    "servicePhone": "800232874"
+  },
+  "birthday": "1992-12-07T01:07:09.598Z",
+  "ip": "165.62.122.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Hocavdo bu kodnodsir umameggiw duuk loudueb fu ed jemieba vasa giwsudjib boifaena emkav. Hiibe efode huhju bug gaba wu fucfot etonigu fo idikujub tuvi ebeza wut vuwakav pucasva. Aghamoge hig laguc aho kubhuzvun uso metjerlu ru lesad diizra if fo potogav hebufit keala. Mib odjura ug wo jinoci pe eca boagzid fe puw egeciwu ed herbetjaw.",
+    "bio": "Vokapbo deb lukfe ji za refob imugu lah dimiapi imhizor winri sed utuedzo wuzwonsut. Rilap cuw gobeze piov zugnen lisrapkim zujefili gizmi pi nibbugovo homlib wiwi. We wu je covmibor saswehben dacujib iwula juk ca wogeeda kes lefaj dafa nodu pih awalgog rajefnir rolvenwa. Ketnav leprefrit josojoni uj keem ovkil nohuv mosucgu kaloco jic azwid israf ziz dun nirver. Ja wipsu kukel riroih ig huce fubato daduk si ocaer jec rakib da leg mumfo mat. Fielpu ozpaut ha vac ijehuj ovbu dedu emure fe mag ihe ta tegiepa paspuhfek uzwiponu ujali lalronow."
+  },
+  "apiKey": "29613d70e2637addf44530d8794dd759f23631c52c1e7efebadb711dde1a8b7e",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
