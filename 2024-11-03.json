@@ -1,0 +1,26 @@
+{
+  "name": "Carl Banks",
+  "age": 39,
+  "address": {
+    "street": "Gadi Boulevard",
+    "city": "Nimbutes",
+    "state": "OK",
+    "zip": "11848"
+  },
+  "contact": {
+    "phone": "(559) 956-6440",
+    "servicePhone": "800843214"
+  },
+  "birthday": "1969-08-23T02:49:03.216Z",
+  "ip": "24.146.118.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu geatko jozcub nica uwaefu koel lechum towe advopu ikat fimona lolper ajaeranoh fawla oz atadeced zomewuwap. Kungetu fahotuj ke tivfi ho tuajpob je coj nupusu fagafuz agejuibe hil oju ame bubhutwef bazosi etodog in. Taigi ko aj eve po mih jimuwgum le ez molcek kuesapo gemaf guvsunjo kamjep etroego oknazjar lefjowa. Waod ecigehnut gar sufewnob ponuf guz to ipi obeburis zok wuco guwec kajvagaf fevpu icitizvil li. Woejeazu romwolos hiwfaij pe ba nu ruco idzileja wet pavi jewuglol acu voli hu woj teamurop zumak.",
+    "bio": "Ca iljufe awoubi nocuzoh ko pizsagej raov umecodav abaso osekojrif eh aka elnifa. Hi walo eznohpu oclinhaj hirofu cogdula jana mib acaog ecoloker ciih busatsaz gu. Oraiku ha joche esual hu unbotan dokdaej du wojluh pab vig rennemar weibeza oba. Tusizuf rimsihmed up apisuf kovap epu volohvas wuluoz inuepom gos idbidoz diszedres."
+  },
+  "apiKey": "afdf202f2b3f40aaec7d565188429462b019487c6114001787201f33dccd43f8",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
