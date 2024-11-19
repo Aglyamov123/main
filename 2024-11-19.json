@@ -1,0 +1,26 @@
+{
+  "name": "Peter Summers",
+  "age": 42,
+  "address": {
+    "street": "Kaddev River",
+    "city": "Pasbupred",
+    "state": "VA",
+    "zip": "75531"
+  },
+  "contact": {
+    "phone": "(578) 805-9284",
+    "servicePhone": "800166672"
+  },
+  "birthday": "2003-04-05T06:23:27.346Z",
+  "ip": "6.183.167.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Gumrewfuc zuamsat poomate wok vi zatliski jomit pi kuip ajelozim dirnehalu uso ev gaphe atacu. Gifece doswoic tellij vakoel ehirobah fuza si hutogi goftauj apsojdi sedug se. Huvozlu hu kubdo pete bi sub erive cuku linudwe livvakho ji kudezij.",
+    "bio": "Sour cuztos asnukag pe wos favtidud bewpon ovu ki zij esu japurjeh avwob dad cu pozih. Wor lop polof luzisicu catej pak nufupo uholaz direg hirfafi pe wosdam irjisa. Vid boki taj lizumo nafapri usuwis wo sane nenisoge soabeve kuke ewcidec heghuf. Ifo coc mihag wu te bu loj laspumdep na cozbiz wabo amoirurog amaze zid. Ome jupaz ewa mek bog mogej vodov avdu eznu guf tefef fivohse duvweg idi joj."
+  },
+  "apiKey": "950076e1a6792314dae2b5e2ba9c526b1958b6e91a18af53eae3e117cc242c5c",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
