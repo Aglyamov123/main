@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Schultz",
+  "age": 22,
+  "address": {
+    "street": "Legek Glen",
+    "city": "Suvfutol",
+    "state": "WA",
+    "zip": "95242"
+  },
+  "contact": {
+    "phone": "(745) 693-6851",
+    "servicePhone": "800711938"
+  },
+  "birthday": "1983-12-01T06:36:47.993Z",
+  "ip": "25.47.169.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Ici uwe ror niaseik ke upo va ho jipgec ume vu fut otanoka. Wo basub oda duk viweg es fuzcop ni zejab go ga suanu ibapa puvim dumwa hegpiran. Cekapmi gagi akhosi oztucdo zophi potdeer ceko toke oda ga fo ta bovoboj.",
+    "bio": "Sozaw fibgu kired dilhejajo ho ave ce pamka tefoehi gidul fuogjo kiguwak zoj wep. Co pirbo vuk kadmume udinohef muccu ran be pi wojhuen rithapuc faceb gocli vurwaneh wodtira. Ho dorsizif zacan cusofe gocuzar gemru vi facokged geebo ujeupazan no vortulcu va vuggig neb."
+  },
+  "apiKey": "7cadee0aad5e50e73b38af979bcdcdb3dc43e324ac20969a3598145b43d33001",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
