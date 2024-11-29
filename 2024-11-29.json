@@ -1,0 +1,26 @@
+{
+  "name": "Grace Garza",
+  "age": 38,
+  "address": {
+    "street": "Gabut Highway",
+    "city": "Zotluler",
+    "state": "MO",
+    "zip": "48237"
+  },
+  "contact": {
+    "phone": "(382) 911-7855",
+    "servicePhone": "800373977"
+  },
+  "birthday": "1981-03-22T03:46:16.333Z",
+  "ip": "97.19.187.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Lucunuwub konzu jak dew wu ug ido rate tur huho ozerum fonzul asaug dojcaon vozpuc duchaw. Ki pacfa je sod ip tugbipi norgaelo lavler le gepa ub onakuje hipoen lowjugus lok furcar cocedi. Muvhu dor dif alopiit wa nezek vo bartowfu hotafpel aluv ise anfovru jatvepaz.",
+    "bio": "Getor lonno iputunhu bodusig mam wiodlo puuhe hike uweon rimziloj debole azjiv. Aseuk cincap wicopda cukaradid howaroc ubujilo mo hu cugjaha kug tor tatfa agkateh zihpog hekad zupuru osilaho bodecbel. Tahnipi de rowahu lawidhim hisjater ahegun iw ibizetomi kah gih lob da lowcebud vamve."
+  },
+  "apiKey": "74cfb0d7d7b6d8f244d1cb6581316f6d8cf2c985bfd40e12f4ae966673ca0c49",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
