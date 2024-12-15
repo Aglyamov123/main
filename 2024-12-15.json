@@ -1,0 +1,26 @@
+{
+  "name": "Travis Lee",
+  "age": 63,
+  "address": {
+    "street": "Uzom Square",
+    "city": "Moacuso",
+    "state": "WV",
+    "zip": "63983"
+  },
+  "contact": {
+    "phone": "(802) 591-4890",
+    "servicePhone": "800528615"
+  },
+  "birthday": "1986-11-05T07:21:49.132Z",
+  "ip": "160.118.78.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu wi zubefzi zukusop cibripja movocab tomdisov jainivu nolize hiwziv zeino don awza liwedici henihcel fadeg ferupade fo. Lajefef nalejmuh ozejin muduslop sajujo eh zoosi teatwo imeseat abutava waze forceew. Ticjo da su fakaw benob jecojo ig cadjopa uhguh biso webfu tuge netozciv.",
+    "bio": "Pifot cu rifhawom uh teepo ric vuhagje pudkisuc ginozvuw bic cawiz ofup vifjik sowi sivurcu to wogerek. Lojpiipe de tajhabek wuhu ca uc kumbib nuflat foew ojivokco ho sukug wozzi. Fitja ono fatirnaj jauw welidov hurecloj badcozo hoche awhu ciulcur tukwe ved."
+  },
+  "apiKey": "9a9b67014a3771a2e54b53596b9ea324528697937dd9f9a1a79328111d37b365",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
